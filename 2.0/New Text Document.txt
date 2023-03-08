@@ -1,0 +1,8 @@
+.btn--Z12eHso span
+
+
+
+
+
+
+/html/body/div/main/section/div/section[2]/div/div[2]/span/button/span[1]
